@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Advanced Text Editor
+Comment=A feature-rich text editor
+Exec=/home/batman/Desktop/Coding/n/app.py
+Icon=/home/batman/Desktop/Coding/n/icon.png
+Terminal=false
+Categories=Utility;TextEditor;Development;
+Keywords=text;editor;notepad;
+StartupNotify=true
+MimeType=text/plain;text/x-python;text/x-javascript;text/html;text/css;
