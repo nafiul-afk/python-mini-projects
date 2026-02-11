@@ -6,42 +6,42 @@ A professional, feature-rich text editor built with Python and Tkinter for Linux
 ![Python](https://img.shields.io/badge/python-3.6+-green)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
-## ✨ Features
+## Features
 
-### 📁 File Management
+### File Management
 - New, Open, Save, Save As
 - Recent files menu (last 10 files)
 - Multiple file format support (.txt, .py, .js, .html, .css, etc.)
 - Unsaved changes warning
 - Auto-save functionality
 
-### ✂️ Editing
+### Editing
 - Unlimited Undo/Redo
 - Cut, Copy, Paste
 - Select All
 - Find and Replace with navigation
 - Go to Line
 
-### 👁️ View & Display
+### View & Display
 - Line numbers (toggle)
 - Word wrap (toggle)
 - Zoom In/Out/Reset
 - Dark/Light theme toggle
 - Status bar with live stats
 
-### 🎨 Formatting
+### Formatting
 - Font chooser
 - Text color picker
 - Background color picker
 - Text case conversion (Upper/Lower/Title)
 
-### 🛠️ Tools
+### Tools
 - Word count
 - Character count
 - Insert date/time
 - Auto-save (5-minute interval)
 
-### ⌨️ Keyboard Shortcuts
+### Keyboard Shortcuts
 - `Ctrl+N` - New File
 - `Ctrl+O` - Open File
 - `Ctrl+S` - Save
@@ -56,13 +56,13 @@ A professional, feature-rich text editor built with Python and Tkinter for Linux
 - `F5` - Insert Date/Time
 - And many more!
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.6 or higher
 - Tkinter (usually comes with Python)
 - Linux operating system (tested on Ubuntu, Mint, Fedora)
 
-## 🚀 Installation
+## Installation
 
 ### Method 1: Quick Install (Recommended)
 
@@ -105,7 +105,7 @@ pip install -e .
 text-editor
 ```
 
-## 🎯 Usage
+## Usage
 
 ### Launching the Editor
 
@@ -130,7 +130,7 @@ text-editor
 5. **Find text**: Press `Ctrl+F` to search in your document
 6. **Check word count**: Go to Tools → Word Count
 
-## 🎨 Customization
+## Customization
 
 ### Changing Themes
 - Press `Ctrl+D` to toggle between light and dark themes
@@ -147,7 +147,7 @@ text-editor
 - Automatically saves every 5 minutes
 - Only works when file has a saved location
 
-## 🗑️ Uninstallation
+## Uninstallation
 
 ```bash
 # Make uninstall script executable
@@ -157,7 +157,7 @@ chmod +x uninstall.sh
 ./uninstall.sh
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 n/
@@ -170,7 +170,7 @@ n/
 └── README.md             # This file
 ```
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Application doesn't appear in menu
 ```bash
@@ -191,18 +191,15 @@ echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to:
 - Report bugs
 - Suggest new features
 - Submit pull requests
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with Python and Tkinter
 - Inspired by modern text editors like Notepad++, Sublime Text, and VS Code
@@ -213,6 +210,6 @@ For issues, questions, or suggestions, please open an issue on GitHub.
 
 ---
 
-**Enjoy your new text editor!** 🎉
+**Enjoy your new text editor!** 
 
-Made with ❤️ using Python
+
