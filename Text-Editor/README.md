@@ -68,8 +68,7 @@ A professional, feature-rich text editor built with Python and Tkinter for Linux
 
 ```bash
 # Clone or download the repository
-cd /home/batman/Desktop/Coding/n
-
+cd Text-Editor
 # Make the install script executable
 chmod +x install.sh
 
